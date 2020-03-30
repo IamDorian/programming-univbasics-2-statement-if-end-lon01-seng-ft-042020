@@ -1,6 +1,6 @@
 # Write your solution here
-
-if second == 2 
+current_second = 2
+if current_second == true
   "Even!"
   elsif == 1
   "Odd!"
