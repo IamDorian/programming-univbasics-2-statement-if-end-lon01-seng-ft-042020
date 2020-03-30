@@ -2,7 +2,7 @@
 current_second = 2
 if current_second == true
   "Even!"
-  elsif current_second == 1
+  elsif current_second == false
   "Odd!"
 else 
   ""
